@@ -1,0 +1,7 @@
+{
+  "name": "SHOPPING_CAR_2.0",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
